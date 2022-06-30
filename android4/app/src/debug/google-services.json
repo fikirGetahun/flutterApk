@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004238367146",
+    "project_id": "kin-ideas",
+    "storage_bucket": "kin-ideas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004238367146:android:6ec2d18947fa633afb63d3",
+        "android_client_info": {
+          "package_name": "com.example.kin_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004238367146-4vvpckhgg1e46epui8i58rn5j99l51tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kin_music",
+            "certificate_hash": "bf3a70ceabbe4940d0256d2da7828072272be396"
+          }
+        },
+        {
+          "client_id": "1004238367146-u2s4o6v00qprt2hq7961dqvmpe5ir6cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihoxN_Gj2F7ztyro4Lh5p_cgv3oQt-P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004238367146-u2s4o6v00qprt2hq7961dqvmpe5ir6cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

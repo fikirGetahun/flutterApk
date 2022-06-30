@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kin</string>
+    <string name="facebook_app_id">696841748073629</string>
+    <string name="fb_login_protocol_scheme">fb696841748073629</string>
+    <string name="facebook_client_token">675301f55ad37915d0ef26067f42f3de</string>
+</resources>
